@@ -6,7 +6,7 @@ permalink: /publication/2022-10-01-review-nudges-joes
 excerpt: ''
 date: 2022-01-01
 venue: 'Journal of Economic Surveys'
-paperurl: '[https://academicpages.github.io/files/joes1.pdf](https://onlinelibrary.wiley.com/doi/full/10.1111/joes.12453)'
+paperurl: 'https://lcongiu.github.io/files/03_nudges_joes.pdf'
 citation: 'Congiu, L. & Moscati, I. (2022). A Review of Nudges: Definitions, Justifications, Effectiveness, <i>Journal of Economic Surveys</i>, 36(1): 188–213.'
 ---
 
