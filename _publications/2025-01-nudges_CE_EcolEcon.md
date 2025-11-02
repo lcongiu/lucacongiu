@@ -9,4 +9,4 @@ paperurl: 'https://lcongiu.github.io/lucacongiu/files/07_nudges_CE_EcolEcon.pdf'
 citation: 'Congiu, L., Botta, E. & Zoli, M. (2025). Biases and Nudges in the Circular Economy: A Review. <i>Ecological Economics</i>, 233: 108579.'
 ---
 
-Congiu, Luca; Botta, Enrico; Mariangela, Zoli.
+Congiu Luca · Botta Enrico · Zoli Mariangela
