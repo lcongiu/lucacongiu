@@ -8,4 +8,4 @@ date: 2024-01-01
 location: "Varese, Italy"
 ---
 
-Since 2021 -- ongoing.
+From 2021 to 2024.
