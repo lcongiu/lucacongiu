@@ -4,7 +4,7 @@ collection: teaching
 type: "MSc course"
 permalink: /teaching/msc-bee
 venue: "University of Insubria, Department of Economics"
-date: 2020-01-01
+date: 2025-01-01
 location: "Varese, Italy"
 ---
 
