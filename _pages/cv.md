@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 -----
-* Ph.D in Methods and Models for Economic Decisions, University of Insubria, 2022.
-* M.S. in Economics, University of Insubria, 2016.
-* B.S. in Sociology, University of Milan-Bicocca, 2014.
+* Ph.D. in Methods and Models for Economic Decisions, University of Insubria, 2022.
+* M.Sc. in Economics, University of Insubria, 2016.
+* B.Sc. in Sociology, University of Milan-Bicocca, 2014.
 
 Past positions
 -----
