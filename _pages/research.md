@@ -21,7 +21,6 @@ author_profile: true
 *Italian Economic Journal*, 11: 431–458, 2025.  
 <br>
 
-
 **[Biases and Nudges in the Circular Economy: A Review](https://doi.org/10.1016/j.ecolecon.2025.108579)**  
 **Congiu Luca**, Botta Enrico, Zoli Mariangela  
 *Ecological Economics*, 233: 108579, 2025.  
@@ -33,29 +32,25 @@ author_profile: true
 *Italian Economic Journal*, 9(1): 321–352, 2023.  
 <br>
 
-
 **[Choice Architecture: A Message and Environment Perspective](https://ejpe.org/journal/article/view/677/497)**  
 **Congiu Luca**  
 *Erasmus Journal for Philosophy and Economics*, 15(1): 162–166, 2022.  
 <br>
-
 
 **[A Review of Nudges: Definitions, Justifications, Effectiveness](https://onlinelibrary.wiley.com/doi/full/10.1111/joes.12453)**  
 **Congiu Luca**, Moscati Ivan  
 *Journal of Economic Surveys*, 36(1): 188–213, 2022.  
 <br>
 
-
 **[Message and Environment: A Framework for Nudges and Choice Architecture](https://lcongiu.github.io/lucacongiu/files/02_ME_BPP.pdf)**  
 **Congiu Luca**, Moscati Ivan  
 *Behavioural Public Policy*, 4(1): 71–87, 2022.  
-
 
 ## Technical reports
 ---
 **[Individual Behaviour and Circular Economy Policies: Opportunities in Italy.](https://www.oecd-ilibrary.org/environment/individual-behaviour-and-circular-economy-policies_7bd89d46-en)**  
 Zoli Mariangela, **Congiu Luca**  
-*OECD Environment Working Papers No. 242, OECD Publishing.*, 2024. 
+*OECD Environment Working Papers No. 242, OECD Publishing*, 2024. 
 
 
 ## Working papers
