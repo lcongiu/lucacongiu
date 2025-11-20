@@ -11,7 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
----
 
 ## Journal articles
 ---
@@ -62,4 +61,18 @@ Persichina Marco, **Congiu Luca**
 
 **[Framing Allais: Is the Paradox Robust to the Pictorial Framing of Probabilities?]()**    
 **Congiu Luca**, Moscati Ivan  
+
+
+## Work in progress
+---
+**[Image Concerns in Second-hand Consumption: A Vignette Study]()**  
+**Congiu Luca**, Lorè Luisa, Zoli Mariangela  
+ 
+**[Environmental Costs in Second-hand Clothing Purchase: A Voucher Choice Experiment]()**   
+Lorè Luisa, **Congiu Luca**, Zoli Mariangela   
+ 
+**[Substantiation Awareness and Willingness to Pay for Green Claims: Evidence from Bottled Water]()**   
+Isik Aylin Leoni, D'Amato Alessio, **Congiu Luca**   
+ 
+
 
