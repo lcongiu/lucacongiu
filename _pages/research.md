@@ -15,7 +15,6 @@ author_profile: true
 
 ## Journal articles
 
-
 **[Digital Nudging and Cookie Rejection](https://link.springer.com/article/10.1007/s40797-024-00268-4)**  
 **Congiu Luca**, Moscati Ivan, Scacchi Matteo  
 *Italian Economic Journal*, 11: 431–458, 2025. 
