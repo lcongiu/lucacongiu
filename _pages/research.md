@@ -67,10 +67,12 @@ Persichina Marco, **Congiu Luca**
 ---
 **[Image Concerns in Second-hand Consumption: A Vignette Study]()**  
 **Congiu Luca**, Lorè Luisa, Zoli Mariangela  
- 
+<br>
+
 **[Environmental Costs in Second-hand Clothing Purchase: A Voucher Choice Experiment]()**   
 Lorè Luisa, **Congiu Luca**, Zoli Mariangela   
- 
+<br>
+
 **[Substantiation Awareness and Willingness to Pay for Green Claims: Evidence from Bottled Water]()**   
 Isik Aylin Leoni, D'Amato Alessio, **Congiu Luca**   
  
