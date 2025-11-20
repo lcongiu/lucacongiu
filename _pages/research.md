@@ -53,7 +53,7 @@ author_profile: true
 
 ## Technical reports
 ---
-**[Individual Behaviour and Circular Economy Policies: Opportunities in Italy.]([https://link.springer.com/article/10.1007/s40797-024-00268-4](https://www.oecd-ilibrary.org/environment/individual-behaviour-and-circular-economy-policies_7bd89d46-en))**  
+**[Individual Behaviour and Circular Economy Policies: Opportunities in Italy.](https://www.oecd-ilibrary.org/environment/individual-behaviour-and-circular-economy-policies_7bd89d46-en)**  
 Zoli Mariangela, **Congiu Luca**  
 *OECD Environment Working Papers No. 242, OECD Publishing.*, 2024. 
 
