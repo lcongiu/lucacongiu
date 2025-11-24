@@ -61,7 +61,7 @@ Persichina Marco, **Congiu Luca**
 
 **[Framing Allais: Is the Paradox Robust to the Pictorial Framing of Probabilities?]()**    
 **Congiu Luca**, Moscati Ivan  
-*Available at SSRN: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5788784](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5788784)
+Available at SSRN: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5788784](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5788784)
 
 
 ## Work in progress
