@@ -17,9 +17,10 @@ Education
 * M.Sc. in Economics, University of Insubria, 2016.
 * B.Sc. in Sociology, University of Milan-Bicocca, 2014.
 
+
 Past positions
 -----
-* Since January 2025: Postdoctoral Researcher
+* January 2025 - December 2025: Postdoctoral Researcher
   * Tor Vergata University of Rome
   * Supervisor: Professor Katia Colaneri
 
