@@ -77,5 +77,6 @@ Lorè Luisa, **Congiu Luca**, Zoli Mariangela
 **[Substantiation Awareness and Willingness to Pay for Green Claims: Evidence from Bottled Water]()**   
 Isik Aylin Leoni, D'Amato Alessio, **Congiu Luca**   
  
-
+**[A Note on the Parameters of Behavioral Models]()**   
+**Congiu Luca**   
 
