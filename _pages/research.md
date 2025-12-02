@@ -12,6 +12,19 @@ author_profile: true
 {% include base_path %}
 
 
+## Working papers
+---
+**[Validation of an Integrated Scale for Measuring Pro-Environmental Behavior and Attitudes (PEBAS)]()**  
+Persichina Marco, **Congiu Luca**  
+*R&R Journal of Economic Psychology*   
+<br>
+
+**[Framing Allais: Is the Paradox Robust to the Pictorial Framing of Probabilities?]()**    
+**Congiu Luca**, Moscati Ivan  
+*Under review*  
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5788784)
+
+
 ## Journal articles
 ---
 
@@ -50,19 +63,6 @@ author_profile: true
 **[Individual Behaviour and Circular Economy Policies: Opportunities in Italy.](https://www.oecd-ilibrary.org/environment/individual-behaviour-and-circular-economy-policies_7bd89d46-en)**  
 Zoli Mariangela, **Congiu Luca**  
 *OECD Environment Working Papers No. 242, OECD Publishing*, 2024. 
-
-
-## Working papers
----
-**[Validation of an Integrated Scale for Measuring Pro-Environmental Behavior and Attitudes (PEBAS)]()**  
-Persichina Marco, **Congiu Luca**  
-*R&R Journal of Economic Psychology*   
-<br>
-
-**[Framing Allais: Is the Paradox Robust to the Pictorial Framing of Probabilities?]()**    
-**Congiu Luca**, Moscati Ivan  
-*Under review*  
-[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5788784)
 
 
 ## Work in progress
