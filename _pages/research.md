@@ -19,10 +19,9 @@ Persichina Marco, **Congiu Luca**
 *R&R Journal of Economic Psychology*   
 <br>
 
-**[Framing Allais: Is the Paradox Robust to the Pictorial Framing of Probabilities?]()**    
+**[Framing Allais: Is the Paradox Robust to the Pictorial Framing of Probabilities?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5788784)**    
 **Congiu Luca**, Moscati Ivan  
 *Under review*  
-[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5788784)
 
 
 ## Journal articles
@@ -57,6 +56,7 @@ Persichina Marco, **Congiu Luca**
 **[Message and Environment: A Framework for Nudges and Choice Architecture](https://lcongiu.github.io/lucacongiu/files/02_ME_BPP.pdf)**  
 **Congiu Luca**, Moscati Ivan  
 *Behavioural Public Policy*, 4(1): 71–87, 2022.  
+
 
 ## Technical reports
 ---
