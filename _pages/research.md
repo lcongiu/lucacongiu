@@ -14,14 +14,13 @@ author_profile: true
 
 ## Working papers
 ---
-**[Validation of an Integrated Scale for Measuring Pro-Environmental Behavior and Attitudes (PEBAS)]()**  
-Persichina Marco, **Congiu Luca**  
-*R&R Journal of Economic Psychology*   
-<br>
-
 **[Framing Allais: Is the Paradox Robust to the Pictorial Framing of Probabilities?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5788784)**    
 **Congiu Luca**, Moscati Ivan  
 *Under review*  
+<br>
+**[Validation of an Integrated Scale for Measuring Pro-Environmental Behavior and Attitudes (PEBAS)]()**  
+Persichina Marco, **Congiu Luca**  
+*R&R Journal of Economic Psychology*   
 
 
 ## Journal articles
