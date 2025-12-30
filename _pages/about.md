@@ -10,8 +10,8 @@ redirect_from:
 In short
 -------
 <p>Postdoctoral researcher in Economics at University of Insubria, Varese, Italy</p>
-<p>Research fellow at Insubria Experimental Economics (<a href="https://dieco.uninsubria.it/it/strutture/inexec-center">InExEc</a>) research center</p>
-<p>Research fellow at <a href="https://ceistorvergata.it/about-us/">CEIS</a>, Tor Vergata University of Rome</p>
+<p>Research fellow at Insubria Experimental Economics (<a href="https://dieco.uninsubria.it/it/strutture/inexec-center" target="_blank">InExEc</a>) research center</p>
+<p>Research fellow at <a href="https://ceistorvergata.it/about-us/" target="_blank">CEIS</a>, Tor Vergata University of Rome</p>
 <p>Editorial board member of <i>Humanities and Social Sciences Communications</i></p>
 
 
