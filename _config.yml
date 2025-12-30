@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Luca Congiu"
 title_separator          : "-"
 name                     : &name "Luca Congiu"
-description              : &description "Postdoc at Tor Vergata University of Rome"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Postdoc at University of Insubria"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://lcongiu.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/lucacongiu" # the subpath of your site, e.g. "/blog"
@@ -27,10 +27,10 @@ author:
   name             : "Luca Congiu"
   pronouns         : # example: "she/her"  
   bio              : "Behavioral and Experimental Economist. \nI work on choice architecture and program with oTree."
-  location         : "Roma, Italia"
-  employer         : "Tor Vergata University of Rome"
+  location         : "Varese, Italia"
+  employer         : "University of Insubria"
   uri              : # URL
-  email            : "luca.congiu@uniroma2.it" 
+  email            : "luca.congiu@uninsubria.it" 
 
   # Academic websites
   academia         : # URL
