@@ -23,7 +23,7 @@ repository               : "lcongiu/lucacongiu"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Luca Congiu"
   pronouns         : # example: "she/her"  
   bio              : "Behavioral and Experimental Economist. \nI work on choice architecture and program with oTree."
