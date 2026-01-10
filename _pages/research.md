@@ -19,7 +19,6 @@ author_profile: true
 <br>
 Persichina Marco & **Congiu Luca** (2025). **[Validation of an Integrated Scale for Measuring Pro-Environmental Behavior and Attitudes (PEBAS)]()**    
 *R&R Journal of Economic Psychology*   
-<br>
 
 ## Journal articles
 ---
@@ -35,21 +34,19 @@ Persichina Marco & **Congiu Luca** (2025). **[Validation of an Integrated Scale 
 **Congiu Luca** & Moscati Ivan (2022). **[A Review of Nudges: Definitions, Justifications, Effectiveness](https://onlinelibrary.wiley.com/doi/full/10.1111/joes.12453)**. *Journal of Economic Surveys*, 36(1): 188–213.  
 <br>
 **Congiu Luca** & Moscati Ivan (2020). **[Message and Environment: A Framework for Nudges and Choice Architecture](https://lcongiu.github.io/lucacongiu/files/02_ME_BPP.pdf)**. *Behavioural Public Policy*, 4(1): 71–87.  
-<br>
 
 ## Other publications
 ---
 Zoli Mariangela & **Congiu Luca** (2024). **[Individual Behaviour and Circular Economy Policies: Opportunities in Italy](https://www.oecd-ilibrary.org/environment/individual-behaviour-and-circular-economy-policies_7bd89d46-en)**. *OECD Environment Working Papers No. 242, OECD Publishing*. 
-<br>
 
 ## Work in progress
 ---
-**Congiu Luca**, Lorè Luisa, Zoli Mariangela. **[Image Concerns in Second-hand Consumption: A Vignette Study]()**  
+**Congiu Luca**, Lorè Luisa & Zoli Mariangela. **Image Dimensions and Social Perspectives: A Vignette Experiment on Second-Hand Adoption**  
 <br>
-Lorè Luisa, **Congiu Luca**, Zoli Mariangela. **[Environmental Costs in Second-hand Clothing Purchase: A Voucher Choice Experiment](https://luisalore.github.io/files/jmp.pdf)**   
+Lorè Luisa, **Congiu Luca** & Zoli Mariangela. **[Environmental Costs in Second-hand Clothing Purchase: A Voucher Choice Experiment](https://luisalore.github.io/files/jmp.pdf)**   
 <br>
-Isik Aylin Leoni, D'Amato Alessio & **Congiu Luca**. **[Substantiation Awareness and Willingness to Pay for Green Claims: Evidence from Bottled Water]()**   
+Isik Aylin Leoni, D'Amato Alessio & **Congiu Luca**. **Substantiation Awareness and Willingness to Pay for Green Claims: Evidence from Bottled Water**   
 <br>
-**Congiu Luca**. **[A Note on the Parameters of Behavioral Models]()**   
+**Congiu Luca**. **A Note on the Parameters of Behavioral Models**   
 <br>
 
