@@ -14,6 +14,8 @@ author_profile: true
 
 ## Working papers
 ---
+Lorè Luisa, **Congiu Luca** & Zoli Mariangela. **[Environmental Costs in Second-hand Clothing Purchase: A Voucher Choice Experiment](https://luisalore.github.io/files/jmp.pdf)**   
+<br>
 **Congiu Luca** & Moscati Ivan (2025). **[Framing Allais: Is the Paradox Robust to the Pictorial Framing of Probabilities?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5788784)**  
 *R&R Journal of Behavioral and Experimental Economics*     
 <br>
@@ -41,12 +43,11 @@ Zoli Mariangela & **Congiu Luca** (2024). **[Individual Behaviour and Circular E
 
 ## Work in progress
 ---
-**Congiu Luca**, Lorè Luisa & Zoli Mariangela. **Image Dimensions and Social Perspectives: A Vignette Experiment on Second-Hand Adoption**  
+**Congiu Luca**, Lorè Luisa & Zoli Mariangela. Image Dimensions and Social Perspectives: A Vignette Experiment on Second-Hand Adoption  
 <br>
-Lorè Luisa, **Congiu Luca** & Zoli Mariangela. **[Environmental Costs in Second-hand Clothing Purchase: A Voucher Choice Experiment](https://luisalore.github.io/files/jmp.pdf)**   
+Isik Aylin Leoni, D'Amato Alessio & **Congiu Luca**. Substantiation Awareness and Willingness to Pay for Green Claims: Evidence from Bottled Water   
 <br>
-Isik Aylin Leoni, D'Amato Alessio & **Congiu Luca**. **Substantiation Awareness and Willingness to Pay for Green Claims: Evidence from Bottled Water**   
-<br>
-**Congiu Luca**. **A Note on the Parameters of Behavioral Models**   
+Persichina, M. & **Congiu, L.** Recruited by a Human or AI? An Experiment on Decision to Participate in Research Studies.
+**Congiu Luca**. A Note on the Parameters of Behavioral Models    
 <br>
 
