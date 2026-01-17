@@ -14,7 +14,7 @@ author_profile: true
 
 ## Working papers
 ---
-Persichina Marco & **Congiu Luca** (2026). **[Validation of an Integrated Scale for Measuring Pro-Environmental Behavior and Attitudes (PEBAS)]()**    
+Persichina Marco & **Congiu Luca** (2026). **Validation of an Integrated Scale for Measuring Pro-Environmental Behavior and Attitudes (PEBAS)**    
 *R&R Journal of Economic Psychology*    
 <br>
 **Congiu Luca** & Moscati Ivan (2025). **[Framing Allais: Is the Paradox Robust to the Pictorial Framing of Probabilities?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5788784)**  
@@ -47,7 +47,6 @@ Zoli Mariangela & **Congiu Luca** (2024). **[Individual Behaviour and Circular E
 <br>
 Isik Aylin Leoni, D'Amato Alessio & **Congiu Luca**. Substantiation Awareness and Willingness to Pay for Green Claims: Evidence from Bottled Water   
 <br>
-Persichina, M. & **Congiu, L.** Recruited by a Human or AI? An Experiment on Decision to Participate in Research Studies.
-**Congiu Luca**. A Note on the Parameters of Behavioral Models    
+Persichina, M. & **Congiu, L.** Recruited by a Human or AI? An Experiment on Decision to Participate in Research Studies.  
 <br>
-
+**Congiu Luca**. A Note on the Parameters of Behavioral Models    
