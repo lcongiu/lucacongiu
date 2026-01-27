@@ -43,10 +43,10 @@ Zoli Mariangela & **Congiu Luca** (2024). **[Individual Behaviour and Circular E
 
 ## Work in progress
 ---
-**Congiu Luca**, Lorè Luisa & Zoli Mariangela. Image Dimensions and Social Perspectives: A Vignette Experiment on Second-Hand Adoption  
+**Congiu Luca**, Lorè Luisa & Zoli Mariangela. Image Dimensions and Social Perspectives: A Vignette Experiment on Second-Hand Adoption.  
 <br>
-Isik Aylin Leoni, D'Amato Alessio & **Congiu Luca**. Substantiation Awareness and Willingness to Pay for Green Claims: Evidence from Bottled Water   
+Isik Aylin Leoni, D'Amato Alessio & **Congiu Luca**. Substantiation Awareness and Willingness to Pay for Green Claims: Evidence from Bottled Water.   
 <br>
-Persichina, M. & **Congiu, L.** Recruited by a Human or AI? An Experiment on Decision to Participate in Research Studies.  
+Persichina Marco & **Congiu Luca** Recruited by a Human or AI? An Experiment on Decision to Participate in Research Studies.  
 <br>
-**Congiu Luca**. A Note on the Parameters of Behavioral Models    
+**Congiu Luca**. A Note on the Parameters of Behavioral Models.    
