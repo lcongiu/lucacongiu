@@ -43,7 +43,7 @@ Zoli Mariangela & **Congiu Luca** (2024). **[Individual Behaviour and Circular E
 
 ## Book chapters
 ---
-**Congiu Luca**, Paglialunga Elena, Zanoni Angela & Zoli Mariangela (in press). **Povertà energetica e disuguaglianze**. In V. Constantini, *[L'economia italiana e la transizione ecologica](https://www.ibs.it/economia-italiana-transizione-ecologica-libro-valeria-costantini/e/9788829035700)*. Carocci. IBSN: 9788829035700. 
+**Congiu Luca**, Paglialunga Elena, Zanoni Angela & Zoli Mariangela (in press). **Povertà energetica e disuguaglianze**. In V. Constantini, *L'economia italiana e la transizione ecologica*. Carocci. IBSN: 9788829035700. 
 
 
 ## Work in progress
