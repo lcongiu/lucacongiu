@@ -37,9 +37,14 @@ Lorè Luisa, **Congiu Luca** & Zoli Mariangela (2025). **[Environmental Costs in
 <br>
 **Congiu Luca** & Moscati Ivan (2020). **[Message and Environment: A Framework for Nudges and Choice Architecture](https://lcongiu.github.io/lucacongiu/files/02_ME_BPP.pdf)**. *Behavioural Public Policy*, 4(1): 71–87.  
 
-## Other publications
+## Technical reports
 ---
 Zoli Mariangela & **Congiu Luca** (2024). **[Individual Behaviour and Circular Economy Policies: Opportunities in Italy](https://www.oecd-ilibrary.org/environment/individual-behaviour-and-circular-economy-policies_7bd89d46-en)**. *OECD Environment Working Papers No. 242, OECD Publishing*. 
+
+## Book chapters
+---
+**Congiu Luca**, Paglialunga Elena, Zanoni Angela & Zoli Mariangela (in press). **Povertà energetica e disuguaglianze**. In V. Constantini, *[L'economia italiana e la transizione ecologica](https://www.ibs.it/economia-italiana-transizione-ecologica-libro-valeria-costantini/e/9788829035700)*. Carocci. IBSN: 9788829035700. 
+
 
 ## Work in progress
 ---
