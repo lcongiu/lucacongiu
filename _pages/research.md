@@ -14,17 +14,16 @@ author_profile: true
 
 ## Working papers
 ---
+**Congiu Luca** & Moscati Ivan (2026). **[Framing Allais: Is the Paradox Robust to the Pictorial Framing of Probabilities?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5788784)**  
+*R&R Journal of Behavioral and Experimental Economics*     
+<br>
 Persichina Marco & **Congiu Luca** (2026). **Validation of an Integrated Scale for Measuring Pro-Environmental Behavior and Attitudes (PEBAS)**    
 *R&R Journal of Economic Psychology*    
-<br>
-**Congiu Luca** & Moscati Ivan (2025). **[Framing Allais: Is the Paradox Robust to the Pictorial Framing of Probabilities?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5788784)**  
-*R&R Journal of Behavioral and Experimental Economics*     
 <br>
 Lorè Luisa, **Congiu Luca** & Zoli Mariangela (2025). **[Environmental Costs in Second-hand Clothing Purchase: A Voucher Choice Experiment](https://luisalore.github.io/files/jmp.pdf)**  
 
 ## Journal articles
 ---
-
 **Congiu Luca**, Moscati Ivan & Scacchi Matteo (2025). **[Digital Nudging and Cookie Rejection](https://link.springer.com/article/10.1007/s40797-024-00268-4)**. *Italian Economic Journal*, 11: 431–458.  
 <br>
 **Congiu Luca**, Botta Enrico & Zoli Mariangela (2025). **[Biases and Nudges in the Circular Economy: A Review](https://doi.org/10.1016/j.ecolecon.2025.108579)**. *Ecological Economics*, 233: 108579.  
