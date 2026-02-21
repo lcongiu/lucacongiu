@@ -17,8 +17,11 @@ In short
 
 What I do
 --------
-My research is in Behavioral and Experimental Economics, and focuses on the design of choice architecture. Specifically, I study framing effects stemming from verbal vs. non-verbal aspects of the choice context and explore their implications for decision theory and public policies (nudges). I mainly conduct lab and online experiments, and I program them with oTree.
+My **[research](https://lcongiu.github.io//lucacongiu/research/)** is in Behavioral and Experimental Economics, and focuses on the design of choice architecture. Specifically, I study framing effects stemming from verbal vs. non-verbal aspects of the choice context and explore their implications for decision theory and public policies (nudges). I mainly conduct lab and online experiments, and I program them with oTree.
 
+Latest working paper
+--------
+**[Framing Allais: Is the Paradox Robust to the Pictorial Framing of Probabilities?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5788784)** (with Ivan Moscati)  
 
 Motto
 -------
