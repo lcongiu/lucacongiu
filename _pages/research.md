@@ -20,6 +20,8 @@ author_profile: true
 Persichina Marco & **Congiu Luca** (2026). **Validation of an Integrated Scale for Measuring Pro-Environmental Behavior and Attitudes (PEBAS)**    
 *R&R Journal of Economic Psychology*    
 <br>
+**Congiu Luca**, Coromaldi Manuela, D’Amato Alessio, Mirra Loredana & Rampa Andrea (2026). **[Understanding Italians’ Responses to Climate Change and Climate Policy](https://www.sustainability-seeds.org/papers/RePec/srt/wpaper/0426.pdf)**. SEEDS Working Paper Series No. 04/2026.  
+<br>
 Lorè Luisa, **Congiu Luca** & Zoli Mariangela (2025). **[Environmental Costs in Second-hand Clothing Purchase: A Voucher Choice Experiment](https://luisalore.github.io/files/jmp.pdf)**  
 
 ## Journal articles
